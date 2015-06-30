@@ -101,7 +101,7 @@ player.y = player.y + player.yvel * dt
 end
 
 function player.injuries()
-if player.x + 30 > rock.x - rock.radius and player.x < rock.x + rock.radius and player.y + 50 > rock.y and player.hurt == false then
+if player.x + 30 > rock.x - rock.radius and player.x < rock.x + rock.radius and player.y + 50 > rock.y and player.hurt == false and player.score < 10 then
 player.hp = player.hp - rock.radius
 player.hurt = true
 end
