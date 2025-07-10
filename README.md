@@ -1,4 +1,9 @@
 # Mountain_climbing_simulator
+I wrote this one back when I was in middle school. It's pretty ugly, but it still works today with a modern LOVE version without any modification and the code seems OK enough. Collision is a little jank as far as the rock goes but it works in the game's favor and feels fine to play with. 
+
+Anyways, here's the original README I wrote back in the day...
+
+# Mountain_climbing_simulator
 A love 2d minimalist game about climbing mountains.
 This requires [Love 2d](https://love2d.org) to run it, but not to look at the source code. Written in Lua.
 =========================================
