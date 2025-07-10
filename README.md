@@ -1,6 +1,8 @@
 # Mountain_climbing_simulator
 I wrote this one back when I was in middle school. It's pretty ugly, but it still works today with a modern LOVE version without any modification and the code seems OK enough. Collision is a little jank as far as the rock goes but it works in the game's favor and feels fine to play with. 
 
+This game is alright as an example of a "Minimum viable product" when learning to make games. However, if I were making it today, I would change the colors of the ground and sky and rock so it's easier to tell them apart. (I was obsessed with "grass green, sky blue, wow it's so realistic" back then). 
+
 Anyways, here's the original README I wrote back in the day...
 
 # Mountain_climbing_simulator
